@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanysouza)](https://github.com/avanysouza/github-readme-stats)
 
-Olá! Sou Engenheira em transição de carreira para a área de Tecnologia da Informação.
+Olá! Sou Engenheira em transição de carreira para a área de Tecnologia da Informação. <br>
 Atualmente sou graduanda em Sistemas de Informação e participo de cursos de formação na área de desenvolvimento web (HTML, CSS, JavaScript) e programação .NET (C,C++,C#, ASP.NET CORE MVC).
 
 <div style="display: inline_block"><br>
