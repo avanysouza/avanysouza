@@ -1,11 +1,13 @@
 ### Hello World, meu nome é Avany Souza 👋
+<br>
 <div> 
   <a href = "mailto:avanysouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/avany-souza-577457259" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
 </div>
-
+<br>
+##
 👩‍💻 Engenheira em transição de carreira para a área de Tecnologia da Informação. <br>
 Atualmente sou graduanda em Sistemas de Informação e participo de cursos de formação na área de desenvolvimento web (HTML, CSS, JavaScript) e de programação .NET (C,C++,C#, ASP.NET CORE MVC).
 
