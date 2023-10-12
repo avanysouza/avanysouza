@@ -25,4 +25,7 @@ Currently, I'm a graduate student in Information Systems and I have been doing c
 
 ##
 
+<div style="align-items: center"><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanysouza&show_icons=true&theme=jolly)
+  
+</div>
