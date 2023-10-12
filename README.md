@@ -1,4 +1,4 @@
-### Hello World, meu nome é Avany Souza 👋
+## Hello World, meu nome é Avany Souza 👋
 💻 Conheça meus projetos:[Portfólio](https://avanysouza.github.io/portfolio_avanysouza/)
 <div> 
   <a href = "mailto:avanysouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
