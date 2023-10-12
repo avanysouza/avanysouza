@@ -7,18 +7,17 @@
 </div>
 <br>
 👩‍💻 Engenheira em transição de carreira para a área de Tecnologia da Informação. <br>
-Atualmente sou graduanda em Sistemas de Informação e participo de cursos de formação na área de desenvolvimento web (HTML, CSS, JavaScript) e de programação .NET (C,C++,C#, ASP.NET CORE MVC).  
+Atualmente sou graduanda em Sistemas de Informação e participo de cursos de formação na área de desenvolvimento web (HTML, CSS, JavaScript) e de programação .NET (C,C++,C#, ASP.NET CORE MVC).<br>
 
+Engineer in career transition to the Information Technology area. Currently, I'm a graduate student in Information Systems and participate in training courses in the area of ​​web development (HTML, CSS, JavaScript) and .NET programming (C,C++,C#, ASP.NET CORE MVC). 
 
-I'm an Engineer in career transition to the Information Technology area.<br>
-Currently, I'm a graduate student in Information Systems and participate in training courses in the area of ​​web development (HTML, CSS, JavaScript) and .NET programming (C,C++,C#, ASP.NET CORE MVC). 
 
 ##
 ## Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Avany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Avany-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Avany-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
