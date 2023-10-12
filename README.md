@@ -12,7 +12,7 @@ Atualmente sou graduanda em Sistemas de Informação e participo de cursos de fo
 Engineer in career transition to the Information Technology area. <br>
 Currently, I'm a graduate student in Information Systems and I have been doing courses in the area of ​​web development (HTML, CSS, JavaScript) and .NET programming (C,C++,C#, ASP.NET CORE MVC). 
 <br>
-💻 [Portfólio] (https://avanysouza.github.io/portfolio_avanysouza/)
+💻 [Conheça meu Portfólio]( https://avanysouza.github.io/portfolio_avanysouza/)
 
 ##
 ## Skills
