@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Avany Souza 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanysouza)](https://github.com/avanysouza/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanysouza&show_icons=true&theme=jolly)
 
 Olá! Sou Engenheira em transição de carreira para a área de Tecnologia da Informação. <br>
 Atualmente sou graduanda em Sistemas de Informação e participo de cursos de formação na área de desenvolvimento web (HTML, CSS, JavaScript) e programação .NET (C,C++,C#, ASP.NET CORE MVC).
