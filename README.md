@@ -9,10 +9,10 @@
 </div>
 <br>
 👩‍💻 Engenheira em transição de carreira para a área de Tecnologia da Informação. <br>
-Atualmente sou graduanda em Sistemas de Informação e participo de cursos de formação na área de desenvolvimento web (HTML, CSS, JavaScript) e de programação .NET (C,C++,C#, ASP.NET CORE MVC). <br>
+Atualmente sou graduanda em Sistemas de Informação e participo de cursos de formação na área de desenvolvimento web (HTML, CSS, JavaScript) e de programação .NET (C#, ASP.NET CORE MVC). <br>
 <br>
 Engineer in career transition to the Information Technology area. <br>
-Currently, I'm a graduate student in Information Systems and I have been doing courses in the area of ​​web development (HTML, CSS, JavaScript) and .NET programming (C,C++,C#, ASP.NET CORE MVC). 
+Currently, I'm a graduate student in Information Systems and I have been doing courses in the area of ​​web development (HTML, CSS, JavaScript) and .NET programming (C#, ASP.NET CORE MVC). 
 <br>
 
 ## Skills
@@ -20,6 +20,9 @@ Currently, I'm a graduate student in Information Systems and I have been doing c
   <img align="center" alt="Avany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Avany-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Avany-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Avany-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
+  <img align="center" alt="Avany-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Avany-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">
 </div>
 
 ##
