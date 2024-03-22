@@ -8,11 +8,18 @@
   
 </div>
 <br>
-👩‍💻 Engenheira em transição de carreira para a área de Tecnologia da Informação. <br>
-Atualmente sou graduanda em Sistemas de Informação e participo de cursos de formação na área de desenvolvimento web (HTML, CSS, JavaScript) e de programação .NET (C#, ASP.NET CORE MVC). <br>
+👩‍💻Olá, meu nome é Avany Souza! <br>
+ <br>
+Sou engenheira ambiental, mas sempre busquei formas de associar a tecnologia à minha carreira profissional e acadêmica. Por isso, em 2023 decidi me dedicar exclusivamente á tecnologia da informação.
+ <br> <br>
+Durante minha formação como desenvolvedora, realizei cursos de desenvolvimento web e desenvolvi projetos com as seguintes tecnologias: HTML, CSS, JavaScript, C#, .NET, ASP NET CORE, Entity Framework, MySQL.<br>
 <br>
-Engineer in career transition to the Information Technology area. <br>
-Currently, I'm a graduate student in Information Systems and I have been doing courses in the area of ​​web development (HTML, CSS, JavaScript) and .NET programming (C#, ASP.NET CORE MVC). 
+<hr>
+Hi, I'm Avany Souza! 👩‍💻 <br>
+<br>
+I'm an environmental engineer, but I have always looked for ways to associate technology with my professional and academic career. In 2023 I decided to dedicate myself exclusively to information technology. <br>
+<br>
+During my training as a developer, I took web development courses and developed projects with the following technologies: HTML, CSS, JavaScript, C#, .NET, ASP NET CORE, Entity Framework, MySQL.
 <br>
 
 ## Skills
