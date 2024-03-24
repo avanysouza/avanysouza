@@ -12,7 +12,7 @@
  <br>
 Sou engenheira ambiental, mas sempre busquei formas de associar a tecnologia à minha carreira profissional e acadêmica. Por isso, em 2023 decidi me dedicar exclusivamente á tecnologia da informação.
  <br> <br>
-Durante minha formação como desenvolvedora, realizei cursos de desenvolvimento web e desenvolvi projetos com as seguintes tecnologias: HTML, CSS, JavaScript, C#, .NET, ASP NET CORE, Entity Framework, MySQL.<br>
+Durante minha formação como desenvolvedora, participei de cursos em desenvolvimento web e desenvolvi projetos com as seguintes tecnologias: HTML, CSS, JavaScript, C#, .NET, ASP NET CORE, Entity Framework, MySQL.<br>
 <br>
 <hr>
 Hi, I'm Avany Souza! 👩‍💻 <br>
