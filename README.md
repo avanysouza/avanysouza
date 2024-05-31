@@ -10,14 +10,14 @@
 <br>
 👩‍💻Olá, meu nome é Avany Souza! <br>
  <br>
-Sou engenheira ambiental, mas sempre busquei formas de associar a tecnologia à minha carreira profissional e acadêmica. Por isso, em 2023 decidi me dedicar exclusivamente á tecnologia da informação.
+Sou engenheira, mas sempre busquei formas de associar a tecnologia à minha carreira profissional e acadêmica. Por isso, em 2023 decidi me dedicar exclusivamente á tecnologia da informação.
  <br> <br>
 Ao longo da minha formação como desenvolvedora, venho participando de cursos em desenvolvimento web e desenvolvi projetos com as seguintes tecnologias: HTML, CSS, JavaScript, C#, .NET, ASP NET CORE, Entity Framework, MySQL.<br>
 <br>
 <hr>
 Hi, I'm Avany Souza! 👩‍💻 <br>
 <br>
-I'm an environmental engineer, but I have always looked for ways to associate technology with my professional and academic career. In 2023 I decided to dedicate myself exclusively to information technology. <br>
+I'm an engineer, but I have always looked for ways to associate technology with my professional and academic career. In 2023 I decided to dedicate myself exclusively to information technology. <br>
 <br>
 During my training as a developer, I took web development courses and developed projects with the following technologies: HTML, CSS, JavaScript, C#, .NET, ASP NET CORE, Entity Framework, MySQL.
 <br>
