@@ -13,6 +13,7 @@
 Sou engenheira, mas sempre busquei formas de associar a tecnologia à minha carreira profissional e acadêmica. Por isso, em 2023 decidi me dedicar exclusivamente á tecnologia da informação.
  <br> <br>
 Ao longo da minha formação como desenvolvedora, venho participando de cursos em desenvolvimento web e desenvolvi projetos com as seguintes tecnologias: HTML, CSS, JavaScript, C#, .NET, ASP NET CORE, Entity Framework, MySQL.<br>
+Após meus passos iniciais, direcionei minha formação para a área de DevOps e atualmente participo do programa de formação AWS RE/START – Cloud Computing and Network Administration no CESAE/Porto.<br>
 <br>
 <hr>
 Hi, I'm Avany Souza! 👩‍💻 <br>
@@ -21,6 +22,7 @@ I'm an engineer, but I have always looked for ways to associate technology with 
 <br>
 During my training as a developer, I took web development courses and developed projects with the following technologies: HTML, CSS, JavaScript, C#, .NET, ASP NET CORE, Entity Framework, MySQL.
 <br>
+After my initial steps, I directed my training towards the DevOps field and am currently participating in the AWS RE/START – Cloud Computing and Network Administration training program at CESAE/Porto.
 
 ## Skills
 <div>
