@@ -2,7 +2,7 @@
 💻 Conheça meus projetos: [Portfólio](https://avanysouza.github.io/portfolio_avanysouza/)
 <div> 
   <a href = "mailto:avanysouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/avany-souza-577457259" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/avany-souza-577457259" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="https://wa.me/351965623459?text=Hello%20I%20found%20your%20profile%20on%20GitHub%2C%20I%27d%20like%20to%20talk%20with%20you" target="_blank"><img     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
