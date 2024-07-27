@@ -40,6 +40,12 @@ After my initial steps, I directed my training towards the DevOps field and am c
 
 ##
 
+## Certifications
+<div>
+  <img align="center" alt="Avany-Js" height="150" width="300" src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png">
+</div>
+
+##
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=avanysouza&show_icons=true&theme=jolly"> 
 </div>
