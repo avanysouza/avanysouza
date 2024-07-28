@@ -31,7 +31,7 @@ After my initial steps, I directed my training towards the DevOps field and am c
   
   
   <img align="center" alt="Avany-Js" height="30" width="40" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">
-  <img align="center" alt="Avany-Js" height="30" width="40" src="https://logowik.com/content/uploads/images/oracle-cloud-infrastructure3345.jpg">
+  <img align="center" alt="Avany-Js" height="20" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/09/oracle-cloud-logo-600x205.png">
   <img align="center" alt="Avany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Avany-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Avany-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
