@@ -16,6 +16,17 @@ Ao longo da minha formação como desenvolvedora, venho participando de cursos e
 <br>
 Após meus passos iniciais, direcionei minha formação para a área de DevOps e atualmente participo do programa de formação AWS RE/START – Cloud Computing and Network Administration no CESAE/Porto.<br>
 <br>
+<b>Skills</b><br>
+Linux Server / Windows Server<br>
+Cloud Computing (AWS, Oracle Cloud)<br>
+Base de Dados (SQL, NoSQL)<br>
+C#<br>
+.NET<br>
+JavaScript/TypeScript<br>
+HTML/CSS<br>
+Desenvolvimento No-Code<br>
+
+<br>
 <hr>
 Hi, I'm Avany Souza! 👩‍💻 <br>
 <br>
