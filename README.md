@@ -20,10 +20,7 @@ Docker<br>
 Ansible<br>
 Git e GitHub<br>
 Base de Dados (SQL, NoSQL)<br>
-C#<br>
-.NET<br>
-JavaScript/TypeScript<br>
-HTML/CSS<br>
+C# | .NET |JavaScript | TypeScript | HTML | CSS <br>
 Desenvolvimento No-Code<br>
 
 <br>
