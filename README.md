@@ -16,6 +16,8 @@ Após meus passos iniciais, direcionei minha formação para a área de DevOps e
 <b>Skills</b><br>
 Linux Server / Windows Server<br>
 Cloud Computing (AWS, Oracle Cloud)<br>
+Docker
+Ansible
 Git e GitHub<br>
 Base de Dados (SQL, NoSQL)<br>
 C#<br>
