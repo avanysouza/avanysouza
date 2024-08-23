@@ -13,7 +13,7 @@ Atualmente curso graduação/licenciatura em Sistemas de Informação e durante 
 <br>
 Após meus passos iniciais, direcionei minha formação para a área de DevOps e atualmente participo do programa de formação AWS RE/START – Cloud Computing and Network Administration no CESAE/Porto.<br>
 <br>
-<b>My knowledges</b><br>
+<b>Minhas skills:</b><br>
 Linux Server / Windows Server<br>
 Cloud Computing (AWS, Oracle Cloud)<br>
 DevOps (Docker, Ansible, Terraform, GitHub Actions)<br>
