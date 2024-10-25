@@ -19,7 +19,7 @@ Cloud Computing (AWS, Oracle Cloud)<br>
 DevOps (Docker, Ansible, Terraform, GitHub Actions)<br>
 Git e GitHub<br>
 Base de Dados (SQL, NoSQL - MySQL, Postgres, SQL Server)<br>
-C# | .NET | Java | JavaScript | HTML | CSS <br>
+C# | .NET | Java | Python | HTML | CSS <br>
 Desenvolvimento No-Code<br>
 
 <br>
