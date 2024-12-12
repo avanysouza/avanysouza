@@ -52,8 +52,9 @@ After my initial steps, I directed my training towards the DevOps field and am c
 
 ## Certifications
 <div>
+  <img align="center" alt="Avany-AWS" height="200" width="200" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   <img align="center" alt="Avany-OracleFoundations" height="150" width="300" src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png">
-  <img align="center" alt="Avany-OracleData" height="150" width="300" src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023JPN.png">
+  <img align="center" alt="Avany-OracleData" height="150" width="300" src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023JPN.png">  
 </div>
 
 
