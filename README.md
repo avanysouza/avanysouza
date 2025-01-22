@@ -5,32 +5,11 @@
   </a> 
   
 </div>
-<br>
-Sou engenheira ambiental, mas sempre busquei formas de associar a tecnologia à minha carreira profissional e acadêmica. Por isso, em 2023 decidi me dedicar exclusivamente á tecnologia da informação, aliando meus conhecimento e skills construídos ao longo da minha carreira profissional.
- <br> <br>
-Atualmente curso graduação/licenciatura em Sistemas de Informação e durante minha formação, tenho participado de cursos de formação em diferentes tecnologias e desenvolvo projetos pessoais e acadêmicos utilizando variadas linguagens e ferramentas.<br>
-<br>
-Após meus passos iniciais, direcionei minha formação para a área de DevOps e atualmente participo do programa de formação AWS RE/START – Cloud Computing and Network Administration no CESAE/Porto.<br>
-<br>
-<b>Minhas skills:</b><br>
-Linux Server / Windows Server<br>
-Cloud Computing (AWS, Oracle Cloud)<br>
-DevOps (Docker, Ansible, Terraform, GitHub Actions)<br>
-Git e GitHub<br>
-Base de Dados (SQL, NoSQL - MySQL, Postgres, SQL Server)<br>
-C# | .NET | Java | Python | HTML | CSS <br>
-Desenvolvimento No-Code<br>
 
-<br>
 <hr>
 Hi, I'm Avany Souza! 👩‍💻 <br>
 <br>
-I'm an engineer, but I have always looked for ways to associate technology with my professional and academic career. That's why, in 2023, I decided to dedicate myself exclusively to information technology, combining the knowledge and skills I have built throughout my professional journey. <br>
-<br>
-I'm currently pursuing a degree in Information Systems, and during my studies, I've participated in training courses in various technologies and developed personal and academic projects using different languages and tools.
-<br>
-<br>
-After my initial steps, I directed my training towards the DevOps field and am currently participating in the AWS RE/START – Cloud Computing and Network Administration training program at CESAE/Porto.
+I'm an engineer, but I discovered a passion for Cloud Computing and DevOps. Today, I have the opportunity to work in the IT field, where I apply my analytical logic and problem-solving skills to create, optimize, and automate solutions. <br>
 
 ## Skills
 <div>
